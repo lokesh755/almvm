@@ -1463,7 +1463,7 @@ div.lab-item-none {
 }
 
 div.lab-item {
-    width: 350px;
+    width: 400px;
     border-width: 1px;
     border-style: solid;
     border-color: #248ec2;
@@ -1555,7 +1555,7 @@ a.postitem:hover{
 }
 
 div.labcols{
-    margin-left: 60px;
+    margin-left: 100px;
 }
 
 div.rowMain{
@@ -1591,3 +1591,23 @@ line-height: 1.6;
 width: 420px;
 }
 
+div.vsts-lab-item {
+    width: 230px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #248ec2;
+    margin-bottom: 15px;
+    margin-top: 25px;
+    padding-bottom: 15px;
+    background-color: #FFFFFF;
+    height: 210px;
+    margin-top: 10px;
+    margin-left: 10px;
+    font-weight: 80%;
+    padding-top: 10px;
+}
+div.vsts-lab-item:hover{
+    border-style: solid;
+    box-shadow: 2px 5px #888888;
+    transition: .5s ease
+}
