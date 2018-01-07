@@ -4,7 +4,6 @@ title: Home
 keywords: ALM VM homepage
 tags: [overview]
 permalink: default.html
-comments: true
 summary: 
 ---
         
